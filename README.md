@@ -1,4 +1,4 @@
 # dambledor
 {
-cout<<fff;
+cout<<Hello world;
 }

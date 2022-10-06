@@ -1,1 +1,4 @@
 # dambledor
+{
+cout<<fff;
+}
